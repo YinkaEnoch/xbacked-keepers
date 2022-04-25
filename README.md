@@ -4,3 +4,4 @@ This repo will only contain the list of actively develeoped keepers for the xBac
 
 ## Active Keepers
 - [xbacked-fee-collector](https://github.com/YinkaEnoch/xbacked-fee-collector)
+- [xbacked-interest-settler](https://github.com/YinkaEnoch/xbacked-interest-settler)
